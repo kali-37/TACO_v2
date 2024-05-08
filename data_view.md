@@ -26,7 +26,8 @@
 - Is Crowd: 0
 ## Scene Annotations : `list` (4296 items)
 - image_id: int: ascending
-- Background IDs: list[int]
+- Background IDs: list[int-> Related to scene_categories[len 1-7 ]]
+
 
 ## Licenses : List[None]
 - None specified

@@ -1,2 +1,3 @@
 data/batch_*
 data/
+.venv/

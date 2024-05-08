@@ -49,7 +49,8 @@ If you use this dataset and API in a publication, please cite us using: &nbsp;
 
 To install the required python packages simply type
 ```
-pip3 install -r requirements.txt
+pip3 install -r requirements.txt 
+pip 3 install -r req.txt
 ```
 Additionaly, to use ``demo.pynb``, you will also need [coco python api](https://github.com/cocodataset/cocoapi). You can get this using
 ```
